@@ -60,7 +60,7 @@ Attributes
     <td>no default. Must be set</td>
   </tr>
   <tr>
-    <td><tt>['tokudb']['tokudb_cache_size']%></tt></td>
+    <td><tt>['tokudb']['tokudb_cache_size']</tt></td>
     <td>String</td>
     <td>set tokudb cache size</td>
     <td>half of the machine memory size</td>
